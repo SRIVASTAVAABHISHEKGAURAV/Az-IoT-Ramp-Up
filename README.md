@@ -7,4 +7,4 @@ This solution can be used to ramp-up on Azure IoT Hub. Some of the scenarios cov
        1.3 Add Device using Provisioning Service.
 2. Sending and receving messages from device to cloud.
 3. Sending and receving messages from cloud to device.
-4. Device Agent that listen to Azure IoT Hub
+4. Device Agent that listen to Azure IoT Hub.

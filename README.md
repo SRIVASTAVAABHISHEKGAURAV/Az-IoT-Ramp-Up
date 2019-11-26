@@ -31,7 +31,7 @@ What things you need to install the software
 Visual studio 2019
 Dot net core
 MVC
-Azure
+Azure (IoT Hub set up)
 ```
 
 ## Authors

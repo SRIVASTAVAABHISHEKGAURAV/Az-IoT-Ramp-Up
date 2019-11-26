@@ -36,7 +36,7 @@ Azure
 
 ## Authors
 
-* **Abhishek Gaurav** - *Initial work*
+* **Abhishek Gaurav** - *Full work*
 
 
 ## License
